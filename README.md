@@ -31,7 +31,7 @@ I tried to convert the colors using script, but the results was not good enough.
     •	Save the converted image as a PNG file.
 
 ## Running the script
-Download image_to_bin.py and put it in a folder you gonna convert the pictures.
-Put the images in the folder.
-Run the script, for example by commandline "python image_to_bin.py"
-All images will be converted and have the .bin extention.
+1. Download image_to_bin.py and put it in a folder you gonna convert the pictures.
+2. Put the images in the folder.
+3. Run the script, for example by commandline "python image_to_bin.py"
+4. All images will be converted and have the .bin extention.
