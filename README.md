@@ -11,16 +11,16 @@ I tried to convert the colors using script, but the results was not good enough.
   	•	Open your image file in Photoshop.
 
   3.	Create a 7-Color Palette:
-  	• Go to Image > Mode > Indexed Color.
-    • In the Palette dropdown, select Custom.
-    • Create a palette with the following colors:
-    • Black: (0, 0, 0)
-    • White: (255, 255, 255)
-    • Green: (0, 255, 0)
-   	• Blue: (0, 0, 255)
-    • Red: (255, 0, 0)
-    • Yellow: (255, 255, 0)
-    • Orange: (255, 128, 0)
+  4.		• Go to Image > Mode > Indexed Color.
+  5.		• In the Palette dropdown, select Custom.
+  6.		• Create a palette with the following colors:
+  7.		• Black: (0, 0, 0)
+  8.		• White: (255, 255, 255)
+  9.		• Green: (0, 255, 0)
+  10.		• Blue: (0, 0, 255)
+  11.		• Red: (255, 0, 0)
+  12.		• Yellow: (255, 255, 0)
+  13.		• Orange: (255, 128, 0)
 
   5.	Convert the Image to Indexed Mode:
   	•	After creating the custom palette, click OK to convert the image to indexed mode using the 7-color palette.
