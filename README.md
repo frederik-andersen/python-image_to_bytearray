@@ -10,7 +10,7 @@ I tried to convert the colors using script, but the results was not good enough.
 1. Open the Image in Photoshop:\
   • Open your image file in Photoshop.
 
-2. Create a 7-Color Palette:
+2. Create a 7-Color Palette:\
 	• Go to Image > Mode > Indexed Color.\
 	• In the Palette dropdown, select Custom.
 
