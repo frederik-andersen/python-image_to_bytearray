@@ -5,7 +5,7 @@ Python script for converting an image to bytearray.
 Before the script is run, the image should be prepared for the screen you gonna use it on.\
 I needed to convert pictures for the [Waveshare ePaper 5in65](https://www.waveshare.com/wiki/Pico-ePaper-5.65#Image_Processing)\
 I tried to convert the colors using script, but the results was not good enough.
-'''
+```
 ### Guide using photoshop.
 1. Open the Image in Photoshop:\
   • Open your image file in Photoshop.
@@ -29,7 +29,7 @@ I tried to convert the colors using script, but the results was not good enough.
 
 6. Save the Image:\
   • Save the converted image as a PNG file.
-'''
+```
 ## Running the script
 1. Download image_to_bin.py and put it in a folder you gonna convert the pictures.
 2. Put the images in the folder.
