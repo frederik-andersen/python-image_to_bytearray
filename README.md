@@ -12,7 +12,7 @@ I tried to convert the colors using script, but the results was not good enough.
 
 2. Create a 7-Color Palette:
 	• Go to Image > Mode > Indexed Color.\
-	• In the Palette dropdown, select Custom.\
+	• In the Palette dropdown, select Custom.
 
 	• Create a palette with the following colors:\
 	• Black: (0, 0, 0)\
