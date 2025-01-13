@@ -23,7 +23,7 @@ I tried to convert the colors using script, but the results was not good enough.
 	• Yellow: (255, 255, 0)\
 	• Orange: (255, 128, 0)
 
-4. Convert the Image to Indexed Mode:
+4. Convert the Image to Indexed Mode:\
    • After creating the custom palette, click OK to convert the image to indexed mode using the 7-color palette.\
    • Dither should be "Diffusion" and "Amount" 80%.
 
