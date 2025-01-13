@@ -6,7 +6,7 @@ Before the script is run, the image should be prepared for the screen you gonna 
 I needed to convert pictures for the [Waveshare ePaper 5in65](https://www.waveshare.com/wiki/Pico-ePaper-5.65#Image_Processing)
 I tried to convert the colors using script, but the results was not good enough.
 
-###Guide using photoshop.
+### Guide using photoshop.
   1.	Open the Image in Photoshop:
     •	Open your image file in Photoshop.
 
