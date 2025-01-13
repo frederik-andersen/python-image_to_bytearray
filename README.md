@@ -33,5 +33,17 @@ I tried to convert the colors using script, but the results was not good enough.
 ## Running the script
 1. Download image_to_bin.py and put it in a folder you gonna convert the pictures.
 2. Put the images in the folder.
-3. Run the script, for example by commandline "python image_to_bin.py"
-4. All images will be converted and have the .bin extention.
+3. Change the color pallete in the script to fit your needs.
+```
+color_map = {
+        (0, 0, 0): 0x00,       # Black
+        (255, 255, 255): 0x01, # White
+        (0, 255, 0): 0x02,     # Green
+        (0, 0, 255): 0x03,     # Blue
+        (255, 0, 0): 0x04,     # Red
+        (255, 255, 0): 0x05,   # Yellow
+        (255, 128, 0): 0x06    # Orange
+    }
+```
+4. Run the script, for example by commandline "python image_to_bin.py"
+5. All images will be converted and have the .bin extention.
